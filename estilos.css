@@ -13,4 +13,14 @@ p{
 h2{
     text-transform: uppercase;
     color: red;
+    background-color: orange;
+}
+.fondo{
+    height: 100vh;
+    background-color: rgb(255, 0, 98);
+    background-image: linear-gradient(red, orange
+    );
+}
+footer{
+    background-color: aqua;
 }
