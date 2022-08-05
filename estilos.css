@@ -13,7 +13,6 @@ p{
 h2{
     text-transform: uppercase;
     color: red;
-<<<<<<< HEAD
     background-color: orange;
 }
 .fondo{
@@ -24,8 +23,6 @@ h2{
 }
 footer{
     background-color: aqua;
-}
-=======
 }
 
 h4{
@@ -60,4 +57,3 @@ h4{
     background-color: aqua;
     transform: rotate(20deg);
 }
->>>>>>> jose
