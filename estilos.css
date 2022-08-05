@@ -12,3 +12,36 @@ h2{
     text-transform: uppercase;
     color: red;
 }
+
+h4{
+    background-color: aqua;
+    background-image: linear-gradient(red,green);
+    background-image: linear-gradient(to top, red orange);
+
+}
+
+.redes{
+    background-color: orange;
+}
+
+.contenedor{
+    height: auto;
+    width: 90%;
+    background-color: orange;
+    padding: 50px;
+    margin: auto;
+}
+.cuadrado{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    border: 5px;
+}
+.c1{
+    background-color: red;
+    transform: translate(250px, 20px);
+}
+.c2{
+    background-color: aqua;
+    transform: rotate(20deg);
+}
